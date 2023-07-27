@@ -1,8 +1,8 @@
 # MachineLearning_SummerChula
 Doing classic and neural network model for predicting Alzheimer patients.
-Done in Summer 2023 with Aj.Jo
-
-Steps Taken:
+Done in Summer 2023 with Aj.Jo\
+[training-groundtruth-new.csv](training-groundtruth-new.csv)\
+Steps Taken:\
 1. [Create openl3 embedding](create_OpenL3_Embbededing.ipynb)
 2. [Train classic model using openl3 embedding](train_ClassicModel.ipynb)
 3. [Test the trained classic model and representing the result using confusion matrix](test_ClassicModel.ipynb)
