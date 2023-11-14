@@ -14,4 +14,5 @@ Steps Taken:
 5. Decide to use mfcc as the only extracted feature. Train using CNN (cross Validated and grid searched).\
    [1. CV and Gridsearch](training_cvCNN.ipynb)\
    [2. Use the best parameter from 1. to train](training_CNN.ipynb)
+
 Result: Can predict Alzheimer's patients with 85.0 % accuracy.
